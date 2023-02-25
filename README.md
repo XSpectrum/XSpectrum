@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **VueJs and Japanese😏😉**
 
-- 💬 Ask me about **flutter, c, c++ and Laravel**
+- 💬 Ask me about **c, c++, PHP, Flutter and Laravel**
 
-- 📫 How to reach me **wwwfadeldafia76@gmail.com**
+- 📫 How to reach me **fadel.dafia@epitech.eu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
