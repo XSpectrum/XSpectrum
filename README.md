@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Fadel DAFIA</h1>
 <h3 align="center">A spectrum from darkness </h3>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=x-spectrum&show_icons=true&locale=en&theme=vue-dark" alt="x-spectrum" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=x-spectrum&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DDDDDD" alt="x-spectrum" />
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xspectrum&show_icons=true&locale=en&theme=vue-dark" alt="xspectrum" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xspectrum&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DDDDDD" alt="xspectrum" />
 </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=x-spectrum&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="x-spectrum" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xspectrum&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="x-spectrum" /></p>
 
 
-<p align="center"> <a href="https://twitter.com/fadel_dafia" target="blank"><img src="https://img.shields.io/twitter/follow/fadel_dafia?logo=twitter&style=for-the-badge" alt="x-spectrum" /></a> <img src="https://komarev.com/ghpvc/?username=x-spectrum&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="x-spectrum" /></p>
+<p align="center"> <a href="https://twitter.com/fadel_dafia" target="blank"><img src="https://img.shields.io/twitter/follow/fadel_dafia?logo=twitter&style=for-the-badge" alt="xspectrum" /></a> <img src="https://komarev.com/ghpvc/?username=xspectrum&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="xspectrum" /></p>
 
 
 - 🔭 I’m currently working on some **Gamers Social Network🤧**
